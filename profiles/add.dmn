@@ -1,0 +1,6 @@
+COIN_NAME="add"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="addd"
+COIN_CLI="add-cli"
+COIN_FOLDER="/root/.add"
+COIN_CONFIG="/root/.add/add.conf"
