@@ -1,5 +1,5 @@
 1. install a node like this 
-wget https://raw.githubusercontent.com/JoeDiablo/ADD_Sript/master/ADD_install.sh
+wget https://raw.githubusercontent.com/JoeDiablo/ADD_Sript/master/ADD_install.sh &&
 bash ADD_install.sh
 
 ./add-cli stop
@@ -13,7 +13,7 @@ tar xvfz ubuntu-cli.tar.gz
 mv /root/add* /usr/local/bin/ 
 
 3. install dupmn script now
-wget https://raw.githubusercontent.com/neo3587/dupmn/master/dupmn_install.sh
+wget https://raw.githubusercontent.com/neo3587/dupmn/master/dupmn_install.sh &&
 bash dupmn_install.sh
 
 4. create a .dmn for add i use nano and neme the file add.dmn
