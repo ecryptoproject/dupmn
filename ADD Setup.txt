@@ -3,7 +3,7 @@ wget https://raw.githubusercontent.com/JoeDiablo/ADD_Sript/master/ADD_install.sh
 bash ADD_install.sh
 
 ./add-cli stop
-wget https://github.com/JoeDiablo/AdNode/releases/download/v3.2.0.0/ubuntu-cli.tar.gz &&
+wget https://github.com/JoeDiablo/AdNode/releases/download/v3.2.0.0/ubuntu-cli.tar.gz
 rm -r addd
 rm -r add-cli
 tar xvfz ubuntu-cli.tar.gz
